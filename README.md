@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Pranav-05x/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Pranav-05x/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pranav-05x/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Design
 |  |
@@ -43,14 +44,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Pranav-05x/leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Pranav-05x/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pranav-05x/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Pranav-05x/leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Pranav-05x/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pranav-05x/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Pranav-05x/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pranav-05x/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
