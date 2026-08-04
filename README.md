@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Pranav-05x/leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranav-05x/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0198-house-robber](https://github.com/Pranav-05x/leetcode/tree/master/0198-house-robber) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Pranav-05x/leetcode/tree/master/0049-group-anagrams) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/Pranav-05x/leetcode/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
