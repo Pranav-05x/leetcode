@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Pranav-05x/leetcode/tree/master/0322-coin-change) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Pranav-05x/leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Pranav-05x/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pranav-05x/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Pranav-05x/leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranav-05x/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0198-house-robber](https://github.com/Pranav-05x/leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Pranav-05x/leetcode/tree/master/0322-coin-change) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,4 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Pranav-05x/leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Pranav-05x/leetcode/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Pranav-05x/leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Pranav-05x/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
