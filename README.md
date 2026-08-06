@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranav-05x/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0198-house-robber](https://github.com/Pranav-05x/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Pranav-05x/leetcode/tree/master/0322-coin-change) |
+| [0877-stone-game](https://github.com/Pranav-05x/leetcode/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/Pranav-05x/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Pranav-05x/leetcode/tree/master/0322-coin-change) |
+| [0877-stone-game](https://github.com/Pranav-05x/leetcode/tree/master/0877-stone-game) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -96,4 +98,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Pranav-05x/leetcode/tree/master/0322-coin-change) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Pranav-05x/leetcode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Pranav-05x/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Pranav-05x/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Pranav-05x/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
