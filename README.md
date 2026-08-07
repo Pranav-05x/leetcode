@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Pranav-05x/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Pranav-05x/leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranav-05x/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0198-house-robber](https://github.com/Pranav-05x/leetcode/tree/master/0198-house-robber) |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Pranav-05x/leetcode/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Pranav-05x/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
