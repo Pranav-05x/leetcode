@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Pranav-05x/leetcode/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/Pranav-05x/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Pranav-05x/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0383-ransom-note](https://github.com/Pranav-05x/leetcode/tree/master/0383-ransom-note) |
 | [0676-implement-magic-dictionary](https://github.com/Pranav-05x/leetcode/tree/master/0676-implement-magic-dictionary) |
 ## Depth-First Search
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranav-05x/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0187-repeated-dna-sequences](https://github.com/Pranav-05x/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Pranav-05x/leetcode/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/Pranav-05x/leetcode/tree/master/0383-ransom-note) |
 | [0676-implement-magic-dictionary](https://github.com/Pranav-05x/leetcode/tree/master/0676-implement-magic-dictionary) |
 ## Bit Manipulation
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Pranav-05x/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Pranav-05x/leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
