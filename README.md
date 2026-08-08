@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Pranav-05x/leetcode/tree/master/0877-stone-game) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Pranav-05x/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Minimax
 |  |
 | ------- |
