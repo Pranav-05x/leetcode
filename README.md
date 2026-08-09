@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Pranav-05x/leetcode/tree/master/0383-ransom-note) |
 | [0676-implement-magic-dictionary](https://github.com/Pranav-05x/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pranav-05x/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Pranav-05x/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3110-score-of-a-string](https://github.com/Pranav-05x/leetcode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pranav-05x/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Depth-First Search
@@ -88,16 +89,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Pranav-05x/leetcode/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/Pranav-05x/leetcode/tree/master/0414-third-maximum-number) |
 | [0877-stone-game](https://github.com/Pranav-05x/leetcode/tree/master/0877-stone-game) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Pranav-05x/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranav-05x/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Pranav-05x/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Pranav-05x/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Pranav-05x/leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Pranav-05x/leetcode/tree/master/0414-third-maximum-number) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Pranav-05x/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Pranav-05x/leetcode/tree/master/0383-ransom-note) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pranav-05x/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Pranav-05x/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Pranav-05x/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
