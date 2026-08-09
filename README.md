@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Pranav-05x/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Pranav-05x/leetcode/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/Pranav-05x/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Pranav-05x/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Pranav-05x/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Pranav-05x/leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranav-05x/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0187-repeated-dna-sequences](https://github.com/Pranav-05x/leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Pranav-05x/leetcode/tree/master/0013-roman-to-integer) |
 | [0877-stone-game](https://github.com/Pranav-05x/leetcode/tree/master/0877-stone-game) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Pranav-05x/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Minimax
