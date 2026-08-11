@@ -6,7 +6,6 @@ public:
         for(int i=0;i<nums.size();i++){
             int count=0;
             while(nums[i]>0){
-                int digit=nums[i]%10;
                 nums[i]/=10;
                 count++;
             }
