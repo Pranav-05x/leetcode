@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/Pranav-05x/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pranav-05x/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pranav-05x/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3731-find-missing-elements](https://github.com/Pranav-05x/leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Pranav-05x/leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pranav-05x/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Pranav-05x/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3731-find-missing-elements](https://github.com/Pranav-05x/leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pranav-05x/leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Pranav-05x/leetcode/tree/master/0414-third-maximum-number) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Pranav-05x/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3731-find-missing-elements](https://github.com/Pranav-05x/leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
