@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/Pranav-05x/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pranav-05x/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Pranav-05x/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pranav-05x/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/Pranav-05x/leetcode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pranav-05x/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Depth-First Search
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Pranav-05x/leetcode/tree/master/0383-ransom-note) |
 | [0676-implement-magic-dictionary](https://github.com/Pranav-05x/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pranav-05x/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pranav-05x/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pranav-05x/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3731-find-missing-elements](https://github.com/Pranav-05x/leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Pranav-05x/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pranav-05x/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Rolling Hash
 |  |
 | ------- |
