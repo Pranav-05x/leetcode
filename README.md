@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pranav-05x/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pranav-05x/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pranav-05x/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Pranav-05x/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Pranav-05x/leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Pranav-05x/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pranav-05x/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Pranav-05x/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Pranav-05x/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Pranav-05x/leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
