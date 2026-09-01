@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Pranav-05x/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0383-ransom-note](https://github.com/Pranav-05x/leetcode/tree/master/0383-ransom-note) |
 | [0676-implement-magic-dictionary](https://github.com/Pranav-05x/leetcode/tree/master/0676-implement-magic-dictionary) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Pranav-05x/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pranav-05x/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Pranav-05x/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pranav-05x/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -207,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pranav-05x/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Pranav-05x/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Pranav-05x/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
