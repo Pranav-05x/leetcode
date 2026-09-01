@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pranav-05x/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/Pranav-05x/leetcode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pranav-05x/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Pranav-05x/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Pranav-05x/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Pranav-05x/leetcode/tree/master/0383-ransom-note) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Pranav-05x/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Pranav-05x/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Pranav-05x/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Pranav-05x/leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Simulation
 |  |
 | ------- |
