@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Pranav-05x/leetcode/tree/master/0013-roman-to-integer) |
+| [0038-count-and-say](https://github.com/Pranav-05x/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Pranav-05x/leetcode/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/Pranav-05x/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Pranav-05x/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
