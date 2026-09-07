@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Pranav-05x/leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Pranav-05x/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Pranav-05x/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Pranav-05x/leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Pranav-05x/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Pranav-05x/leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Pranav-05x/leetcode/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Pranav-05x/leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pranav-05x/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Pranav-05x/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Pranav-05x/leetcode/tree/master/0274-h-index) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Pranav-05x/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
