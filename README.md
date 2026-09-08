@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Pranav-05x/leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pranav-05x/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Pranav-05x/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [3870-count-commas-in-range](https://github.com/Pranav-05x/leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pranav-05x/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Minimax
 |  |
